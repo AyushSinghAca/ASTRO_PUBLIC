@@ -4,6 +4,8 @@ This project creates a color composite image of the spiral galaxy NGC 4603, loca
 
 ## Data Source
 
+FITS FILE IS BIGGER THAN 25Mb SO PLEASE DOWNLOAD IT FROM THE WEBSITE LINK BELOW.
+
 The FITS files used in this project were obtained from the Hubble Legacy Archive:
 
 Link: https://archive.stsci.edu/prepds/sgal/datalist.html
