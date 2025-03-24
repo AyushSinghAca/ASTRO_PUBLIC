@@ -28,7 +28,7 @@ The script then combines the red, green, and synthetic blue channels into an RGB
 The output is a PNG file named my_image.png, which visualizes NGC 4603 as a color composite.
 
 
-##Disclaimer: 
+## Disclaimer: 
 The work presented here is not entirely done by me from scratch. It have been completed with the help of online resources, \\
 AI assistants, professors, and reference materials from other platforms working in the field of astrophysics.
 
