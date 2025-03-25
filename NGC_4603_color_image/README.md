@@ -1,4 +1,4 @@
-NGC 4603 (spiral galaxy located in the constellation Centaurus) - Color Composite Image
+## **NGC 4603 (spiral galaxy located in the constellation Centaurus) - Color Composite Image**
 
 This project creates a color composite image of the spiral galaxy NGC 4603, located in the constellation Centaurus, using astronomical data from Hubble Space Telescope observations.
 
