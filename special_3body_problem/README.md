@@ -1,4 +1,4 @@
-# Orbital Mechanics: The Triple Body Problem – The Algol System
+# **Orbital Mechanics: The Triple Body Problem – The Algol System**
 
 I learned to solve  a special case of the three-body problem, where two objects are in a close, inner orbit. Together with a third, 
 more distant object, they follow an  outer orbit around the common center of mass. Such a configuration is found in the triple star system Beta Persei, 
@@ -24,7 +24,7 @@ Wolfram Schmidt & Marcel Völschow – *Numerical Python in Astronomy and Astrop
 If any conflicts or discrepancies arise, please refer to the book rather than relying on me. I am new to this topic and cannot guarantee the accuracy of the code.
 I have tried my best to include comments for each line with AI assistance. If any confusion arises, please refer to page 145 of the book for a proper explanation.  
 
-## Licience
+## License
 
 Feel free to modify any sections to better suit your repository or personal preferences.
 
